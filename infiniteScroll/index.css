@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    text-align: center;
+    font-size:  2.5rem;
+    font-weight: 600;
+    color: black;
+    margin: 1rem 0;
+}
+
+#infinite{
+    width: 800px;
+    height: 900px;
+    margin: auto;
+    padding: 1rem;
+    overflow-y: scroll;
+    font-size: 3rem;
+}
+
+.divInfinite{
+    padding: 3rem;
+    border: 1px solid blue;
+}
